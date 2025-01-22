@@ -1,0 +1,5 @@
+VantagePlusHook:
+    type:   branch
+    link:   true
+    func:   VantagePlusAsm
+    addr:   0x0036ef68
